@@ -42,3 +42,11 @@
   cursor: pointer;
   border-radius: 5px;
 }
+
+.another-button:hover {
+  background-color: #3d9140;
+}
+
+.another-button:active {
+  background-color: #4caf50;
+}
