@@ -1,5 +1,5 @@
 import './App.css'
-import ImageRequester from './components/ImageRequester'
+import ImageRequester from './components/Image'
 
 function App() {
   return (
